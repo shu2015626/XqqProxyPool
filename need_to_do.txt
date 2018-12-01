@@ -1,0 +1,11 @@
+1.daili66 需要js
+2.coolproxy：国外的网站，动态的，需要就js https://www.cool-proxy.net/proxies/http_proxy_list/country_code:/port:/anonymous:1/page:1
+3.https://proxy.mimvp.com/freesole.php?proxy=in_hp  端口是图片
+4.https://www.us-proxy.org/ 国外的
+
+====国外的还是停掉吧，访问国内网站可能存在问题
+proxylistplus
+ipaddress
+
+===========停掉
+crossin也是抓的别人的，一天才有新的
